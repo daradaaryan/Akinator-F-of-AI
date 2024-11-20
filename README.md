@@ -10,6 +10,7 @@ An AI-powered food guessing game built using Python, tkinter, and Q-Learning. Th
 - Multi-language support (English, Hindi, Spanish)
 - Multiple difficulty levels
 - Uses Q-Learning to enhance guessing accuracy
+- Information Gain Entropy
 
 ---
 
