@@ -51,10 +51,8 @@ Make sure the image file `akinator.png` is placed in the same directory as the s
 
 Execute the script in your terminal:
 ```bash
-python script_name.py
+python akinator.py
 ```
-
-Replace `script_name.py` with the actual filename of the Python script (e.g., `main.py`).
 
 ---
 
