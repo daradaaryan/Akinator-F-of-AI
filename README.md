@@ -21,23 +21,6 @@ Start by cloning the repository to your local machine:
 git clone <repo-url>
 cd <repo-name>
 ```
-
----
-
-### Set Up the Environment
-
-1. **Create a Virtual Environment** (optional but recommended):
-   ```bash
-   python -m venv akinator_env
-   source akinator_env/bin/activate  # On Windows: akinator_env\Scripts\activate
-   ```
-
-2. **Install Required Dependencies**:
-   Install the Python dependencies listed in `requirements.txt`:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 ### Add the Image File
@@ -51,7 +34,11 @@ Make sure the image file `akinator.png` is placed in the same directory as the s
 
 Execute the script in your terminal:
 ```bash
-python akinator.py
+python akinator1.py
+```
+or
+```bash
+python akinator2.py
 ```
 
 ---
