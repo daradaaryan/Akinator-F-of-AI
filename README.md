@@ -62,6 +62,8 @@ python akinator2.py
 
 [Here is a demo](https://youtu.be/IaFwTgGgBuc?feature=shared) explaining how to play the game along with the code.
 [https://youtu.be/IaFwTgGgBuc?feature=shared](https://youtu.be/IaFwTgGgBuc?feature=shared)
+
+[![Watch the video](https://img.youtube.com/vi/IaFwTgGgBuc/maxresdefault.jpg)](https://youtu.be/IaFwTgGgBuc)
 ---
 
 ### Requirements
