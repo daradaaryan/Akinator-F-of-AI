@@ -60,10 +60,9 @@ python akinator2.py
 4. **Exit the Game**:
    - After the game guesses your food, it will close automatically.
 
-[Here is a demo](https://youtu.be/IaFwTgGgBuc?feature=shared) explaining how to play the game along with the code.
-[https://youtu.be/IaFwTgGgBuc?feature=shared](https://youtu.be/IaFwTgGgBuc?feature=shared)
-
 [![Watch the video](https://img.youtube.com/vi/IaFwTgGgBuc/maxresdefault.jpg)](https://youtu.be/IaFwTgGgBuc)
+[Here is a demo](https://youtu.be/IaFwTgGgBuc?feature=shared) explaining how to play the game along with the code.
+
 ---
 
 ### Requirements
